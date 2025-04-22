@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="ui">
+    <file>icons/app-icon.ico</file>
+    <file>icons/clear.ico</file>
+    <file>icons/export_config.ico</file>
+    <file>icons/import_config.ico</file>
+    <file>icons/powershell.ico</file>
+  </qresource>
+</RCC>
